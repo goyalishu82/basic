@@ -11,6 +11,10 @@ color: red;
 font-size:110%;
 list-style-type:none;
 }
+body
+{
+background-color:lightblue;
+}
 
 </style>
 </head>
