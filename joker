@@ -1,0 +1,76 @@
+<!Doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Joker</title>
+<link rel="stylesheet"  href="Joker.css" type="text/css">
+</head>
+<body>
+<div style="font-size :500%; text-align : center;">
+<mark style= " color : purple">Joker</mark>
+</div>
+<br>
+<br>
+<div class="top">
+<span class ="nav-menu">
+<ol>
+<a href="#About"><li>About</li></a>
+<a href="#Details"><li>Details</li></a>
+<a href="#Movies"><li>Movies</li></a>
+</ol>
+</span>
+</div>
+<div class ="about">
+<a name="About"><h1 style ="text-align : center; font-size :50px; backrgound-color :red; color: blue; font-family : 'Times New Roman';">About</h1></a>
+</div>
+<div style="background-color:lightgreen">
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkU24PFxnfcq3hCXw98-W0saoS6QTAvjj5GghaeIOYQTbvDjFH&usqp=CAU" alt="Joker"style="float : left; width: 50%; height :400px">
+<p class ="char">The Joker is a fictional character who appears in Christopher Nolan 2008 superhero film The Dark Knight, based upon the DC Comics character and supervillain of the same name. He was played by Australian actor Heath Ledger. A psychopathic criminal mastermind and mass murderer with a warped, sadistic sense of humor, the Joker is hired by Gotham City mob bosses to kill the vigilante Batman (Christian Bale), and also comes into conflict with Batman's allies, Gotham police officer James Gordon (Gary Oldman) and district attorney Harvey Dent (Aaron Eckhart). The character embodies themes of chaos, anarchy and obsession: throughout the film, he expresses a desire to upset the social order in Gotham through crime, and defines himself by his conflict with Batman.
+</p>
+<p class ="char">Ledger interpretation of the character is specifically influenced by the graphic novels Batman: The Killing Joke and Arkham Asylum: A Serious House on Serious Earth. In the film, he wears the character traditional purple and green color palette, while his facial appearance includes clown makeup that covers facial scars of a Glasgow smile, and green hair. The character also explores techniques found in Ledger previous performances, including his clown act in Terry Gilliam fantasy film The Brothers Grimm, while also referencing paintings by artist Francis Bacon, Anthony Burgess novel A Clockwork Orange, and various punk rock musicians, as well as a vocal style rumoured to be influenced by Tom Waits.
+</p>
+<p class="char">Ledger casting as the Joker was initially controversial but it is now considered Ledger finest performance, and Ledger himself regarded it as his most enjoyable. When the film was released in July 2008, six months after Ledger died from an accidental overdose, the performance received universal acclaim and numerous posthumous accolades, including the Academy Award for Best Supporting Actor.
+</p>
+</div>
+<div class= "table-back">
+<table>
+<a name="Details"><h1><caption style="color :yellow; font-family : 'Times New Roman'; font-size : 50px; ">Details</caption></h1></a>
+<tr>
+<td class ="a">Occupation</td>
+<td>Professional Criminal</td>
+</tr>
+<tr>
+<td class ="a">Power</td>
+<td>High Pain Resistance, Genius level Intelligent, Brilliant Chemist and Inventor</td>
+</tr>
+<tr>
+<td class ="a">Facts</td>
+<td>Voilent, Agressive and Phychopath</td>
+</tr>
+<tr>
+<td class ="a">Operations</td>
+<td>Goutham City</td>
+</tr>
+<tr>
+<td class="a">Outstanding Warrents</td>
+<td>Kidnapping and Murder</td>
+</table>
+</div>
+<div>
+<a name="Movies"><h1 style="font-size :50px; color : blue; text-align : center;" >Movies</h1></a>
+</div>
+<div style ="display: inline-block; width :30%; height :25%; border : 1px solid black; padding :2px; margin : 10px; background-color : #6fdcdc;">
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-_YPPDeAKm7PclNam2EAtxm_0Tejkw6ZB7dlmmiYNTPDwWkbPw&s" alt="Batman The Killing Joke" height ="300" width ="80%"style ="display : inline block; padding :10%; margin bottom :20px; ">
+<h2 style ="text-align : center;">Batman : The killing Joke</h2>
+</div>
+<div style ="display: inline-block; width :30%; height :50%; border : 1px solid black; padding :2px; margin : 10px; background-color : #6fdcdc; ">
+<img src = "https://contentserver.com.au/assets/598411_p173378_p_v8_au.jpg" alt="The Dark Knight" height ="300" width ="80%" style ="display : inline block; padding :10%; margin bottom :20px; ">
+<h2 style ="text-align : center;">The Dark Knight</h2>
+</div>
+<div style ="display: inline-block; width : 30% ; height :25%; border : 1px solid black; padding :2px; margin : 10px; background-color : #6fdcdc;">
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwLZ7Z9c1F1Ex1KWDRAk16vJIbIxyc4uWRDRwGBPUosMBj1Ym5&usqp=CAU" alt="Joker" height ="300" width ="80%"style ="display : inline block; padding :10%; margin bottom :20px; ">
+<h2 style ="text-align : center;">Joker(2019)</h2>
+</div>
+</body>
+</html>
