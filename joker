@@ -5,6 +5,12 @@
 
 <title>Joker</title>
 <link rel="stylesheet"  href="Joker.css" type="text/css">
+<style>
+body
+{
+background-color:blue;
+}
+</style>
 </head>
 <body>
 <div style="font-size :500%; text-align : center;">
