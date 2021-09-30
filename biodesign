@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bio Page</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<style>
+ol,li
+{
+color: red;
+font-size:110%;
+list-style-type:none;
+}
+
+</style>
+</head>
+<body>
+<div style="background-color:lightgreen ;color :yellow ;text-align:center;font-size:110%;">
+<h1>Bio Details</h1>
+</div>
+<br>
+<div style="float:left;">
+<ol>
+<li><b>Contact Details</b></li>
+<li>Ishan Goyal </li>
+<li>ishangoyal2016@gmail.com</li>
+<li>7400282732</li>
+<br>
+<li><b>Education Qualification</b></li>
+<br>
+<li>B.Tech(2018-2022)</li>
+<li>UIET,KUK</li>
+<li>7.2 CGPA</li>
+<br>
+<li>Class 12(2017-2018)</li>
+<li>SBP DAV Public School, Fatehabad(CBSE)</li>
+<li>79.8%</li>
+<br>
+<li>Class 10(2015-2016)</li>
+<li>SBP DAV Public School, Fatehabad(CBSE)</li>
+<li>9.2 CGPA</li>
+</ol>
+</div>
+<img src="IMG20181101133646.jpg" style="height=30%;width:50%; float: right;">
+
+</body>
+</html>
